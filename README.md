@@ -3,9 +3,9 @@ Repositório para códigos e materiais utilizados na disciplina de Programação
 
 ## Neste repositório você pode encontrar:
 
-- [Exemplos trabalhados em aula](Exemplos)
+- [Exemplos trabalhados em aula](exemplos)
 - [Atividades e desafios](atividades)
-- [Práticas Dirigidas e Projeto Final](praticas)
+- [Materiais de apoio](materiais)
 
 ## 🔗 Links Úteis
 
