@@ -1,0 +1,21 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  display: flex;
+  flex-flow: column nowrap;
+  place-items: center;
+}
+
+.cards {
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: center;
+  width: 100%;
+  margin: 30px 0;
+}
+
+h1 {
+  color: dimgray;
+  text-align: center;
+}

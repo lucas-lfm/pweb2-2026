@@ -1,0 +1,30 @@
+.search-container {
+  width: 40%;
+  background-color: #f4f4f4;
+  border-radius: 8px;
+  display: flex;
+}
+
+.search-container input[type="text"] {
+  padding: 16px 12px;
+  flex-grow: 1;
+  background-color: transparent;
+  border: none;
+
+  &:focus {
+    outline: none;
+  }
+}
+
+.search-container button {
+  width: 48px;
+  background-color: transparent;
+  border: none;
+  cursor: pointer;
+  border-radius: 8px;
+  font-size: 1rem;
+
+  &:hover {
+    background-color: #e2e2e2;
+  }
+}

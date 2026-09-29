@@ -1,0 +1,40 @@
+{
+  "anuncios": [
+    {
+      "id": 1,
+      "brand": "Hyundai",
+      "model": "HB20",
+      "km": 65000,
+      "category": "Hatch",
+      "year": 2018,
+      "price": 55000
+    },
+    {
+      "id": 2,
+      "brand": "Toyota",
+      "model": "Hilux",
+      "km": 100000,
+      "category": "Picape",
+      "year": 2019,
+      "price": 155000
+    },
+    {
+      "id": 3,
+      "brand": "Volkswagen",
+      "model": "T-Cross",
+      "km": 20000,
+      "category": "SUV",
+      "year": 2021,
+      "price": 135000
+    },
+    {
+      "id": 4,
+      "brand": "Chevrolet",
+      "model": "Onix",
+      "km": 80000,
+      "category": "Hatch",
+      "year": 2017,
+      "price": 50000
+    }
+  ]
+}
